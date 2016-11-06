@@ -1,0 +1,41 @@
+#menu {
+  background-color: red;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+}
+
+#postHolder {
+  background-color: green;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50px;
+  right: 0;
+}
+
+.post {
+  background-color: blue;
+  width: 90%;
+  margin-left: 5%;
+}
+
+.name {
+  color: white;
+  font-size: 70%;
+
+}
+
+.character {
+  display: block;
+  border-bottom: solid red 1px;
+
+}
+
+.content {
+  color: white;
+  padding: 5px 5px;
+  align-self: right;
+}
